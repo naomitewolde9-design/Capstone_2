@@ -1,5 +1,5 @@
 # Capstone_2
-# Assigned Territory: 
+# Assigned Sales Territory: 
 Region: Northeast
 | State: Maine & Massachusetts
 ## Project Overview:
