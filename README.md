@@ -16,7 +16,7 @@ Using Python, Jupyter Notebook, and a structured analysis, I worked through the 
 ## Deliverables
 To communicate my findings effectively, I created the following:
 
-- Jupyter Notebook: A complete walkthrough of my analysis process, including code, explanations, and results
+- Jupyter Notebook: A complete walkthrough of my analysis process, including code, visualizations, and results
 - Visualizations: Charts illustrating key comparisons and trends
 - Video Presentation (10 minutes): A detailed explanation of my approach and findings
 - Live Presentation (5 minutes): A focused summary of territory comparisons
