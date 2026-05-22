@@ -13,4 +13,12 @@ Using Python, Jupyter Notebook, and a structured analysis, I worked through the 
 - Provide insights that could help guide marketing strategies
 - Clearly communicate findings through visuals and explanations
 
+## Deliverables
+To communicate my findings effectively, I created the following:
+
+- Jupyter Notebook: A complete walkthrough of my analysis process, including code, explanations, and results
+- Visualizations: Charts illustrating key comparisons and trends
+- Video Presentation (10 minutes): A detailed explanation of my approach and findings
+- Live Presentation (5 minutes): A focused summary of territory comparisons
+- GitHub Repository: Includes all project files, with consistent updates to show progress
   
