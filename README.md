@@ -1,5 +1,6 @@
 # Capstone_2: EmporiUm Sales Analysis
-# Author: Naomi Tewolde
+# Author:
+Naomi Tewolde
 # Assigned Sales Territory: 
 Region: Northeast
 | State: Maine & Massachusetts
