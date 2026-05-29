@@ -24,3 +24,5 @@ To communicate my findings effectively, I created the following:
 - Live Presentation (5 minutes): A focused summary of territory comparisons
 - GitHub Repository: Includes all project files, with consistent updates to show progress
   
+## 10 min Video:
+https://yearuptemp-my.sharepoint.com/:v:/g/personal/ntewolde1_my_yearupunited_org/IQBn7k5ghSQ7QqdVeVA3ifyCAUXX9ZvAPli6Tnfz3qs64-c?e=kwlUsM
